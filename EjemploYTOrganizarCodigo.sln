@@ -13,17 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Infraestructure", "04-In
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Core", "05-Core", "{833AD716-A659-45C5-9790-25962591FCA8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{F97E2A86-4272-4BBF-97BF-50E67C599B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", ".\Domain\Domain.csproj", "{F97E2A86-4272-4BBF-97BF-50E67C599B97}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplication", "..\Aplication\Aplication.csproj", "{319BF87D-A329-4DF1-819C-E55319C47F7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplication", ".\Aplication\Aplication.csproj", "{319BF87D-A329-4DF1-819C-E55319C47F7C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "..\Repositories\Repositories.csproj", "{078CABB6-91B2-469F-AE03-1682567250F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", ".\Repositories\Repositories.csproj", "{078CABB6-91B2-469F-AE03-1682567250F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "..\Core\Core.csproj", "{301C5F54-464D-4314-BCBF-655ACAEFAB2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", ".\Core\Core.csproj", "{301C5F54-464D-4314-BCBF-655ACAEFAB2B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "view", "..\view\view.csproj", "{769A4AB3-445D-4CFE-8F44-65ECE426B2A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "view", ".\view\view.csproj", "{769A4AB3-445D-4CFE-8F44-65ECE426B2A5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dto", "..\Dto\Dto.csproj", "{BDC902AB-D068-46E7-9D88-9DA31786A120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dto", ".\Dto\Dto.csproj", "{BDC902AB-D068-46E7-9D88-9DA31786A120}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
